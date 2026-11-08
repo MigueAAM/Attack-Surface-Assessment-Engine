@@ -192,3 +192,17 @@ Phase 4 -> <target>_report.md
 
 Use `run_pipeline.py` for normal operation so all phases process artifacts
 from the same target and run.
+
+## Ethical Use & Legal Disclaimer
+
+> **DISCLAIMER:** The Automated Vulnerability & Reconnaissance Framework is developed strictly for educational, defensive, and authorized audit purposes. Executing vulnerability assessments or penetration tests against targets without explicit, documented permission from the system owner is illegal and violates local, federal, and international law. The author assumes no liability for damages resulting from misuse of this software.
+
+---
+
+## Author
+
+**Miguel Arcos**  
+*IT Security Apprentice | CompTIA Security+ | City Colleges of Chicago*  
+- **GitHub:** [@MigueAAM](https://github.com/MigueAAM)  
+- **LinkedIn:** [Miguel Arcos](https://linkedin.com/in/miguel-arcos)  
+- **Email:** arcos-miguel@outlook.com
